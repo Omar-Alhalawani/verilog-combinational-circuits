@@ -1,5 +1,4 @@
 // 4-to-1 multiplexer constructed from three shared 2:1 MUX stages.
-// Source adapted from SYSC 2310 Lab 5, Experiment 2.
 module mux_4to1 (
     input  wire d0,
     input  wire d1,
