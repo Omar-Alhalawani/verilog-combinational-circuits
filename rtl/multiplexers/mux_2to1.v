@@ -1,4 +1,3 @@
-// 2-to-1 multiplexer from SYSC 2310 Lab 5.
 // Implemented using explicit Boolean expressions.
 module mux_2to1 (
     input  wire I0,
