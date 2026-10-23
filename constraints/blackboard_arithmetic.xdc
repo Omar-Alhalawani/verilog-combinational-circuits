@@ -1,7 +1,6 @@
 # Blackboard Rev B FPGA — shared 4-bit adder / subtractor mapping.
 # Valid for top modules four_bit_adder and four_bit_subtractor,
 # both exposing A[3:0], B[3:0], Sum[3:0], Cout.
-# Adapted from the original SYSC 2310 Lab 4 Vivado constraints.
 # Confirm pinout and FPGA revision before use.
 
 # Switches SW0–SW3 -> A; SW4–SW7 -> B
