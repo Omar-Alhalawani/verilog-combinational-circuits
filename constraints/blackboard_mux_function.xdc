@@ -1,6 +1,5 @@
 # Blackboard Rev B FPGA — three-variable MUX function.
 # Intended top module: func.
-# Based on original SYSC 2310 Lab 5 experiment 2 assignments;
 # unrelated clock/unused ports removed.
 
 set_property -dict { PACKAGE_PIN R16 IOSTANDARD LVCMOS33 } [get_ports {x}]
