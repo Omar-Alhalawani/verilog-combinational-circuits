@@ -1,4 +1,3 @@
-// 1-bit full adder — adapted from the SYSC 2310 Lab 4 RTL.
 module full_adder (
     input  wire x,
     input  wire y,
