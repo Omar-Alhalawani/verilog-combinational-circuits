@@ -2,7 +2,7 @@
 
 **FPGA & Digital Logic | Verilog HDL | Hierarchical RTL | Ripple-Carry Arithmetic | Multiplexers**
 
-A collection of combinational digital-circuit implementations developed from my **SYSC 2310 — Introduction to Digital Systems** lab work at Carleton University. The original Vivado exercises have been organized into reusable Verilog modules, with shared submodules, FPGA constraints for the **Blackboard Rev B** development board, and added self-checking simulation testbenches.
+A collection of combinational digital-circuit implementations organized into reusable Verilog modules, with shared submodules, FPGA constraints for the **Blackboard Rev B** development board, and added self-checking simulation testbenches.
 
 The emphasis is on understanding how larger digital systems are built from **small, composable hardware blocks**, rather than relying only on the Verilog arithmetic or conditional operators.
 
@@ -138,6 +138,6 @@ The standalone \`mux_4to1\` is simulated as a reusable module; a separate board-
 
 ## Origin
 
-Based on original student-created Verilog source and pin mappings from **SYSC 2310 Labs 4 and 5**. Testbenches, repository structure, and this documentation were subsequently prepared for reproducibility. Instructor-authored course lab manuals are **not distributed** here.
+Built from original Verilog circuits and FPGA pin mappings, organized into reusable modules. Testbenches and documentation were added for reproducibility.
 
 **Author:** Omar Alhalawani · [GitHub profile](https://github.com/Omar-Alhalawani)
