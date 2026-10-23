@@ -1,6 +1,5 @@
 # Blackboard Rev B FPGA — 2:1 multiplexer.
 # Intended top module: mux_2to1.
-# Based on original SYSC 2310 Lab 5 assignments;
 # unrelated clock/unused ports removed.
 
 set_property -dict { PACKAGE_PIN R17 IOSTANDARD LVCMOS33 } [get_ports {I0}]
