@@ -1,4 +1,3 @@
-// 4-bit ripple-carry adder — SYSC 2310 Lab 4.
 // Shared full_adder module is defined in full_adder.v.
 module four_bit_adder (
     input  wire [3:0] A,
