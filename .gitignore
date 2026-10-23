@@ -1,0 +1,24 @@
+# Local simulator outputs
+build/
+*.vcd
+*.vvp
+*.fst
+*.lxt
+*.log
+
+# Vivado generated build/artifact directories
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.jou
+*.str
+*.bit
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
