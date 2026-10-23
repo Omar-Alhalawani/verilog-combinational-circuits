@@ -1,4 +1,3 @@
-// 4-bit ripple-carry subtractor — adapted from SYSC 2310 Lab 4.
 // A - B = A + ~B + 1, using the shared full_adder module.
 // Cout = 1 when no unsigned borrow occurs; 0 when A < B.
 module four_bit_subtractor (
